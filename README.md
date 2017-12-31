@@ -1,3 +1,4 @@
 # Game_of_life
-a classic zero-player game <br>
-![alt text](./image.png)
+a classic zero-player game 
+<br><br><br><br>
+![alt text](image.png)
