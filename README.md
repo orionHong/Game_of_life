@@ -2,9 +2,9 @@
 a classic zero-player game. Developed in Cooperation with Mr. Sveinson, my high school teacher. 
 
 ## Tool Used
-Java SE, Java standard libraries
-<br>Swing framework
-<br>IDE: NetBeans
+- Java SE, Java standard libraries
+- Swing framework
+- IDE: NetBeans
 
 ## Notes
 - File **Life.java** contains the core functions
